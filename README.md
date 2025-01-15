@@ -43,7 +43,6 @@ A **Weather App** that provides real-time weather updates for any city, built wi
 2. Build and run the Spring Boot application:
 
    ```bash
-   Copy code
    mvn spring-boot:run
 Open your browser and navigate to http://localhost:8080 to use the Weather App.
 
