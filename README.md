@@ -47,14 +47,14 @@ A **Weather App** that provides real-time weather updates for any city, built wi
 Open your browser and navigate to http://localhost:8080 to use the Weather App.
 
 ### Endpoints
-/ - Home page where users can search for weather updates.
-/weather - Displays weather details for the queried city.
-/error - Error page for invalid city input or API issues.
+- / - Home page where users can search for weather updates.
+- /weather - Displays weather details for the queried city.
+- /error - Error page for invalid city input or API issues.
 
 ### Future Improvements
-🌐 Multi-Language Support: Provide weather updates in various languages.
-📊 Weather Trends Visualization: Add charts to show weather patterns over time.
-📍 Location-based Weather: Automatically fetch weather data based on user location.
+- 🌐 Multi-Language Support: Provide weather updates in various languages.
+- 📊 Weather Trends Visualization: Add charts to show weather patterns over time.
+- 📍 Location-based Weather: Automatically fetch weather data based on user location.
 
 ### Weather Results
 Displays real-time weather details like temperature, humidity, and wind speed.
